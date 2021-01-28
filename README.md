@@ -5,10 +5,11 @@
 ### I am currently working on realtime technologies to build collaborative tools for teams, so they can actually work together in harmony.
 
 ### Current Tech Stack:
-- React ⚛️ (Typescript)
-- NestJS 😺(NodeJS + Typescript + gRPC / Websockets)
+- React ⚛️ (Typescript + Redux)
+- NestJS 😺(NodeJS + Typescript + gRPC / Websockets / GraphQL)
 - Golang 🐹
 - Postgres 🐘
+- Redis 🗃
 - Docker 🐳
 
 <!--
