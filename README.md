@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+## I am a Father 👨‍🍼, Vegan 🥦 and also, a Senior Software Engineer 👨‍💻.
+
+## I am currently working on realtime technologies to build collaborative tools for teams, so they can actually work together in harmony.
+
+## Current Tech Stack:
+### React ⚛️ (Typescript)
+### NestJS 😺(NodeJS + Typescript + gRPC / Websockets)
+### Postgres 🐘
+### Docker 🐳
 
 <!--
 **Simonwtaylor/Simonwtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
