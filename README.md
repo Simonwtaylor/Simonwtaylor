@@ -7,6 +7,7 @@
 ### Current Tech Stack:
 - React ⚛️ (Typescript)
 - NestJS 😺(NodeJS + Typescript + gRPC / Websockets)
+- Golang 🐹
 - Postgres 🐘
 - Docker 🐳
 
