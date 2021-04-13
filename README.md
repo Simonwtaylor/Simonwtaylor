@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-### I am a Father 👨‍🍼, Vegan 🥦 and also, a Senior Software Engineer 👨‍💻.
+### I am a Father 👨‍🍼, Vegan 🥦 and a Senior Software Engineer 👨‍💻.
 
 ### I am currently working on realtime technologies to build collaborative tools for teams, so they can actually work together in harmony.
 
 ### Current Tech Stack:
 - React ⚛️ (Typescript + Redux)
+- Golang 🐹 (gRPC)
 - React Native 📱
 - NestJS 😺(NodeJS + Typescript + gRPC / Websockets / GraphQL)
-- Golang 🐹 (gRPC)
 - Postgres 🐘
 - Redis 🗃
 - Docker 🐳
