@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Full-Stack Senior Software Engineer 👨‍💻.
+### I work as a Senior Software Engineer 👨‍💻 at [The Economist](https://www.economist.com/) 📰.
 
 ### I am currently working on realtime technologies to build collaborative tools for teams.
 
